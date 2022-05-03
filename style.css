@@ -42,8 +42,9 @@ h1 span{
     background-color: #434343;
     padding: 10px;
     margin: 5px;
-    border: 2px solid black;
+    border: 2px solid white;
     border-radius: 8px;
+    color: white;
 }
 
 .left{
@@ -84,8 +85,6 @@ h1 span{
     font-weight: bolder;
     /* background-color: ; */
 }
-
-
 
 .center{
     text-align: center;
